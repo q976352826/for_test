@@ -1,1 +1,10 @@
+public static main{arg[]{
+public class jor(){
+int i=0;
+for(i;i<10;i++){
+print("i的数值为"+i);
+}
 
+}
+
+}}
